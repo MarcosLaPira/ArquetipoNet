@@ -1,0 +1,11 @@
+# Compilados
+bin/
+obj/
+
+# Configuración local de IDEs
+.vs/
+
+
+# Logs
+logs/
+

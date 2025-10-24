@@ -1,0 +1,6 @@
+@BancoHipotecario.Delivery.Api_HostAddress = http://localhost:5152
+
+GET {{BancoHipotecario.Delivery.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
